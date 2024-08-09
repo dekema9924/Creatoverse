@@ -42,7 +42,7 @@ export default function ViewCreator() {
                 {
                     isCreator && (
                         <>
-                            <div className='border-2 mt-5 bg-white w-8/12 p-5 border-red-900 m-auto flex flex-col gap-3'>
+                            <div className='border-20 bg-white w-8/12 sm:w-full p-5 m-auto flex flex-col gap-3'>
                                 <img className='object-cover w-[20%] h-[10%]' src={isCreator.imageUrl} alt="" />
                                 <div className='flex items-center justify-between'>
                                     <div>

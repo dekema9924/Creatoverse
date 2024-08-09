@@ -43,7 +43,7 @@ function Creators() {
             GoBack
           </button>
         </Link>
-        <div className='bg-lime-400 flex flex-wrap gap-5  p-20 '>
+        <div className='bg-lime-400 flex flex-wrap sm:justify-center gap-5  p-20 '>
 
           {
             isCreators && (
@@ -52,14 +52,14 @@ function Creators() {
                   isCreators.map((creators) => {
                     return (
                       <>
-                        <div key={creators.id} className=' bg-white p-5  h-[450px] w-96  pb-15'>
+                        <div key={creators.id} className=' bg-white  p-5  h-fit max-h-[640px] w-96  pb-15'>
                           <div className='flex justify-between'>
                             <div className='flex gap-3 mb-2'>
                               <Link className='text-teal-900' to={`/EditCreator/${creators.id}`}><EditIcon/>Edit</Link>
                               <button onClick={() => HandleDelete(creators.id)} className='text-red-600'><DeleteIcon/>Delete</button>
                             </div>
-                            <div>
-                            <a target='blank' className='bg-blue-300 rounded-md w-fit px-5 text-center ' href={creators.url}>See channel</a>
+                            <div className='sm:ml-10 py-4'>
+                            <a target='blank' className='bg-blue-300 rounded-md  w-fit px-5 sm:text-sm sm:font-thin text-center ' href={creators.url}> channel</a>
                             </div>
                           </div>
                           <img className='w-96 border-2 h-40 object-cover' src={creators.imageUrl} alt="creatorimg" />
