@@ -30,6 +30,7 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 * [x] Used tailwind to style my CSS.
+* [x] added queries for a more responsive experience.
 
 ## Video Walkthrough
 
