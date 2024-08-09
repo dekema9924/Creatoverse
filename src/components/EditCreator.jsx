@@ -64,7 +64,7 @@ function EditCreator() {
     return (
         <>
             <form onSubmit={HandleSubmit} action="" className=' flex flex-col justify-center items-center h-screen'>
-                <h1 className='text-3xl text-teal-400 italic font-bold'>Add Creator</h1>
+                <h1 className='text-3xl text-teal-400 italic font-bold'>Update Creator</h1>
 
                 <div className='flex flex-col p-3'>
                     <label htmlFor="name">Name</label>
