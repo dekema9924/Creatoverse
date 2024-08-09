@@ -1,11 +1,11 @@
-# WEB103 Prework - *👉🏿 Name of App Here*
+# WEB103 Prework - *👉🏿 Creatoversee*
 
-Submitted by: **👉🏿 your name here**
+Submitted by: **👉🏿 Daniel Ekema**
 
-About this web app: **👉🏿 app description here**
+About this web app: **👉🏿 allows a user to create, read, update and delete components of their favorite content creator. **
 
 Time spent: **👉🏿 X** hours
-Cr
+
 ## Required Features
 
 The following **required** functionality is completed:
@@ -29,24 +29,20 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [x] List anything else that you added to improve the site's functionality!
+* [x] Used tailwind to style my css.
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
 
-👉🏿<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+👉🏿<img src='https://s2.ezgif.com/tmp/ezgif-2-46440bd81c.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  👉🏿 GIF tool here
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
-
+GIF created with ...  👉🏿 LICEcap
 ## Notes
 
-Describe any challenges encountered while building the app or any additional context you'd like to add.
+This was my first time dealing with supabase so it was kind of challenging. after reading the docs, I got the hang of it,
+
 
 ## License
 
