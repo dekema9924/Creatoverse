@@ -29,7 +29,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [x] List anything else that you added to improve the site's functionality!
+* [x] Used tailwind to style my css.
 
 ## Video Walkthrough
 
@@ -46,7 +46,7 @@ GIF created with ...  👉🏿 GIF tool here
 
 ## Notes
 
-Describe any challenges encountered while building the app or any additional context you'd like to add.
+This was my first time dealing with supabase so it was kind of challenging. after reading the docs, I got the hang of it,
 
 ## License
 
