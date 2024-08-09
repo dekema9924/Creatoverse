@@ -36,6 +36,8 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented required features:
 
 👉🏿![demo](https://imgur.com/wdhmpPP.gif)
+![](http://i.imgur.com/OUkLi.gif)
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  👉🏿 LICEcap
