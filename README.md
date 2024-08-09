@@ -4,7 +4,7 @@ Submitted by: **👉🏿 Daniel Ekema**
 
 About this web app: **👉🏿 allows a user to create, read, update and delete components of their favorite content creator. **
 
-Time spent: **👉🏿 X** hours
+Time spent: **👉🏿 4 hours
 
 ## Required Features
 
@@ -35,7 +35,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-👉🏿<img src='https://s2.ezgif.com/tmp/ezgif-2-46440bd81c.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+👉🏿<img src='https://s2.ezgif.com/tmp/ezgif-2-46440bd81c.gif' title='Video Walkthrough' width='300px' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  👉🏿 LICEcap
