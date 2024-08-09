@@ -35,13 +35,13 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-👉🏿<img src='https://imgur.com/wdhmpPP.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+👉🏿![](https://imgur.com/wdhmpPP.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  👉🏿 LICEcap
 ## Notes
 
-This was my first time dealing with supabase so it was kind of challenging. after reading the docs, I got the hang of it,
+This was my first time dealing with supabase so it was kind of challenging. after reading the docs, I got the hang of it. ALso had some troubles adding a gif file on my readme🥲
 
 
 ## License
